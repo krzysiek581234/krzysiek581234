@@ -1,6 +1,6 @@
 ## Hi there, Christopher here!
 
-<p>Computer Science student at <a> Gdańsk University of Technology</a><br>
+<p>Computer Science student at <a href="https://pg.edu.pl/en"> Gdańsk University of Technology</a><br>
 Cybersecurity research at <a href="https://knping.pl"> PING</a></p>
 
 
